@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Jay Walker-Schulte's Portfolio</title>
+Jay Walker-Schulte's Portfolio
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -28,9 +28,9 @@ Currently pursuing a Bachelor of Science in Computer Engineering at the Universi
   <section id="skills">
     <h2>Skills</h2>
     <ul>
-      <li>Skill 1</li>
-      <li>Skill 2</li>
-      <li>Skill 3</li>
+      <li>General Merchandising & Retail Sales</li>
+      <li>Receiving & Logistics</li>
+      <li>Grocery, Liquor, and GM/HBC experience</li>
     </ul>
   </section>
 
@@ -38,17 +38,19 @@ Currently pursuing a Bachelor of Science in Computer Engineering at the Universi
   <section id="projects">
     <h2>Projects</h2>
     <div class="project-item">
-      <h3>Project 1</h3>
-      <p>Brief description of the project.</p>
+      <h3>Kroger Uplift Team</h3>
+      <p>Kroger's Uplift Team is a Diversity, Equity, and Inclusion (DEI) initiative focused on fostering an inclusive workplace culture and addressing systemic barriers within the organization. The team aims to support diverse associates, enhance community engagement, and promote equity in all aspects of the company's operations.
+
+As the President of the Uplift Team, one is responsible for leading DEI efforts, advocating for underrepresented groups, and driving initiatives that promote inclusivity and belonging among associates. This role involves collaborating with leadership to develop and implement strategies, organizing training and events, and serving as a liaison between associates and management to ensure diverse perspectives are heard and valued within the company. Additionally, the President plays a key role in measuring the effectiveness of DEI initiatives and reporting on progress to drive continuous improvement.</p>
     </div>
   </section>
 
   <!-- Contact Section -->
   <section id="contact">
     <h2>Contact Me</h2>
-    <a href="mailto:your.email@example.com">Email Me</a>
-    <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>
-    <a href="https://github.com/yourusername">GitHub</a>
+    <a href="mailto:jaypearlws@icloud.com">Email Me</a>
+    <a href="https://www.linkedin.com/in/jay-ws">LinkedIn</a>
+    <a href="https://github.com/dmforfreetaxadvice">GitHub</a>
   </section>
 </body>
 </html>
